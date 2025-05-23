@@ -35,7 +35,6 @@ mvn clean package
 VITE_API_URL=http://localhost:8080/  
 
 ### Backend Database (application.properties) MySQL Configuration
-spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver  
 spring.datasource.url=jdbc:mysql://localhost:3306/gscore_db  
 spring.datasource.username=your_username  
 spring.datasource.password=your_password  
