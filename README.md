@@ -1,9 +1,9 @@
-📌 GSCORE https://gscore-datlt-fe.onrender.com/
-🌟 Overview
-A system for querying 2024 National High School Exam scores consisting of:
+📌 #GSCORE https://gscore-datlt-fe.onrender.com/
+🌟 #Overview
+#A system for querying 2024 National High School Exam scores consisting of:
 
-Frontend (FE): React.js + TailwindCSS + Vite
-Backend (BE): Spring Boot + MySQL
+- Frontend (FE): React.js + TailwindCSS + Vite
+- Backend (BE): Spring Boot + MySQL
 
 1. Frontend (FE) https://github.com/ledat139/GSCORE-DatLT-FE
 2. Backend (BE) https://github.com/ledat139?tab=repositories
@@ -17,7 +17,7 @@ Backend (BE): Spring Boot + MySQL
 - List top 10 students of group A including (math, physics, chemistry)
   ![image](https://github.com/user-attachments/assets/b964a9a5-a4fd-4f42-9bf4-71a49ea66481)
 
-🚀 Quick Start
+🚀#Quick Start
 Frontend (FE)
 npm install
 npm run dev
