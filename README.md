@@ -6,7 +6,7 @@
 - Backend (BE): Spring Boot + MySQL  
 
 1. Frontend (FE) https://github.com/ledat139/GSCORE-DatLT-FE  
-2. Backend (BE) https://github.com/ledat139?tab=repositories  
+2. Backend (BE) https://github.com/ledat139/GSCORE-DatLT-BE  
 
 🌟 Features  
 - Check score from registration number input  
